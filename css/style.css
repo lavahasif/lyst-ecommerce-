@@ -181,6 +181,7 @@ select {
 .detail>img {
     width: 100%;
     height: 80%;
+    src: url("https://cdna.lystit.com/cms/YIF_Banner_XL_Desktop_76bdba2aa5.jpg");
     /* height: 80vh; */
 }
 
